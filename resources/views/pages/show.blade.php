@@ -35,7 +35,7 @@
             </div>
         </div>
 
-        @if(in_array($page->slug,['about-us','health','vital']))
+        @if(in_array($page->slug,['about-us','health','vital','team']))
             @if(in_array($page->slug,['about-us','vital']))
         @include('partials.facts')
             @endif
