@@ -11,14 +11,15 @@
 |
 */
 
-//Route::get('/', function () {
-//    return view('welcome');
-//});
+Route::get('/organization', function () {
+    return view('org');
+});
 
 Auth::routes();
 
 Route::get('/', 'HomeController@index');
 Route::get('/home', 'HomeController@index')->name('home');
+//Route::get('/organization', 'HomeController@org')->name('org');
 
 
 Route::group(['prefix' => 'admin'], function () {
