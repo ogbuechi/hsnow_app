@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="about-image2">
-                            <img class="wow fadeInLeft" src="assets/images/admins/eli.jpg" alt="Elisha Chadwell">
+                            <img class="wow fadeInLeft" src="{{ Voyager::image(setting('extra.ceo_pics')) }}" alt="Elisha Chadwell">
                             <p>Elisha Caldwell (MPH), President and CEO</p>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                                 <li><i class="far fa-check-square"></i><span>Our Goal:</span>  Strengthen health system that is universal, portable, and accessible</li>
                                 <li><i class="far fa-check-square"></i><span>Our Objective:</span>  All patients should be treated fairly, equally, with dignity and respect</li>
                             </ul>
-                            <a href="about.php" class="tm-button" target="_blank">Read More <b></b></a>
+                            <a href="{{ url('about-us') }}" class="tm-button" target="_blank">Read More <b></b></a>
                         </div>
                     </div>
                 </div>
