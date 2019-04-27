@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Slider;
+use App\Facility;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -26,7 +27,9 @@ class HomeController extends Controller
     public function index()
     {
         $sliders = Slider::all();
+$facilities = Facility::all();
 
-        return view('home', compact('sliders'));
+
+        return view('home', compact('sliders','facilities'));
     }
 }

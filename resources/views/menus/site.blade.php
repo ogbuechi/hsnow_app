@@ -1,7 +1,7 @@
 @foreach($items as $menu_item)
 
     <li class="{{ count($menu_item->children) ? 'tm-navigation-dropdown ' : '' }} {{ Request::is($menu_item->url) ? 'active' : '' }}">
-        <a class="text-center" href="{{ url($menu_item->url) }}">{{ $menu_item->title }}
+        <a class="" href="{{ url($menu_item->url) }}">{{ $menu_item->title }}
         </a>
         @php
             $submenu = $menu_item->children;
