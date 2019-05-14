@@ -388,8 +388,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-10">
                         <div class="tm-section-title text-center">
-                            <h2>Completed and On going jobs</h2>
-                            <p>The following are images of on going and completed projects. </p>
+                            <h2>Supporters</h2>
+{{--                            <p>The following are images of on going and completed projects. </p>--}}
                         </div>
                     </div>
                 </div>
