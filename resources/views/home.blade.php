@@ -396,72 +396,16 @@
             </div>
             <div class="row blog-slider-active">
 
-                <!-- Single Blog -->
+                @foreach($bsliders as $item)
                 <div class="col">
                     <div class="tm-blog">
                         <div class="tm-blog-image">
-                            <img src="assets/images/projects/h1_1.jpg" alt="projects">
+                            <img src="{{ Voyager::image($item->image) }}" alt="projects">
                         </div>
 
                     </div>
                 </div>
-                <!--// Single Blog -->
-
-                <!-- Single Blog -->
-                <div class="col">
-                    <div class="tm-blog">
-                        <div class="tm-blog-image">
-                            <img src="assets/images/projects/h2_1.jpg" alt="projects">
-                        </div>
-                    </div>
-                </div>
-                <!--// Single Blog -->
-
-                <!-- Single Blog -->
-                <div class="col">
-                    <div class="tm-blog">
-                        <div class="tm-blog-image">
-                            <img src="assets/images/projects/h3_1.jpg" alt="projects">
-                        </div>
-
-
-                    </div>
-                </div>
-                <!--// Single Blog -->
-
-                <!-- Single Blog -->
-                <div class="col">
-                    <div class="tm-blog">
-                        <div class="tm-blog-image">
-                            <img src="assets/images/projects/h4_2.jpg" alt="projects">
-                        </div>
-
-
-                    </div>
-                </div>
-                <!--// Single Blog -->
-
-                <!-- Single Blog -->
-                <div class="col">
-                    <div class="tm-blog">
-                        <div class="tm-blog-image">
-                            <img src="assets/images/projects/h4_6.jpg" alt="projects">
-                        </div>
-
-
-                    </div>
-                </div>
-                <!--// Single Blog -->
-
-                <!-- Single Blog -->
-                <div class="col">
-                    <div class="tm-blog">
-                        <div class="tm-blog-image">
-                            <img src="assets/images/projects/img-8334-1_1.jpg" alt="projects">
-                        </div>
-
-                    </div>
-                </div>
+                @endforeach
                 <!--// Single Blog -->
 
 

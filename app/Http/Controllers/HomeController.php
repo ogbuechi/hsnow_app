@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\BSlider;
 use App\Slider;
 use App\Facility;
 use Illuminate\Http\Request;
@@ -28,8 +29,9 @@ class HomeController extends Controller
     {
         $sliders = Slider::all();
 $facilities = Facility::all();
+$bsliders = BSlider::all();
 
 
-        return view('home', compact('sliders','facilities'));
+        return view('home', compact('sliders','facilities','bsliders'));
     }
 }
