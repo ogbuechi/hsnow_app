@@ -40,8 +40,34 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="about-image2">
+<<<<<<< HEAD
                             <img style="height:600px" class="wow fadeInLeft" src="{{ Voyager::image(setting('extra.ceo_pics')) }}" alt="Elisha Chadwell">
                             <p>{{ setting('extra.founder') }}</p>
+=======
+                            <img class="wow fadeInLeft" src="{{ Voyager::image(setting('extra.ceo_pics')) }}" alt="Elisha Chadwell">
+                            <p>Elisha Caldwell (MPH), President and CEO</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content">
+                            <h2>Welcome to Eli Health System</h2>
+                            <h6>HealthCare for the poor.</h6>
+                            <p>We are an emerging community global health Organization with a mission to provide  Universal
+                                Primary Health Care System in Sub-Saharan Africa that is portable and accessible by all.</p>
+                            <p>EHS aligned with the Institute of Health Care Improvement
+                                2007 Triple Aim Conceptual Framework;
+
+                                improved patient care experience,
+                                improved the health of the population,
+                                and reduce per capita healthcare cost.</p>
+                            <p>
+                                EHS was founded on the need to serve the vulnerable populations, make health care coverage a universal right, and improve the quality of life</p>
+                            <ul class="stylish-list">
+                                <li><i class="far fa-check-square"></i><span>Our Goal:</span>  Strengthen health system that is universal, portable, and accessible</li>
+                                <li><i class="far fa-check-square"></i><span>Our Objective:</span>  All patients should be treated fairly, equally, with dignity and respect</li>
+                            </ul>
+                            <a href="{{ url('about-us') }}" class="tm-button" target="_blank">Read More <b></b></a>
+>>>>>>> 8b181f4404d9ab93e6f9ee9aedb4d77b5cf85e1d
                         </div>
                     </div>
                    {!! setting('site.intro') !!}
