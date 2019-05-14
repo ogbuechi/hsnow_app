@@ -9,7 +9,7 @@
         <div class="heroslider-slider-2 heroslider-animated-content tm-slider-arrow tm-slider-dots-left">
 
             @foreach ($sliders as $slider)
-                <div class="heroslider-singleslider d-flex align-items-center" data-white-overlay="5" data-bgimage="{{ Voyager::image($slider->image) }}">
+                <div class="heroslider-singleslider d-flex align-items-center"  data-bgimage="{{ Voyager::image($slider->image) }}">
                     <div class="container">
                         <div class="row @if($slider->position == 'text-center') justify-content-center @endif">
                             <div class="col-lg-7 col-md-8">
