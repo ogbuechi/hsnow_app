@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="assets/css/fontawesome.css">
 
     <!-- Start of hsnow Zendesk Widget script -->
-    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=18e64e89-bb90-4675-b7d7-52fcc71f0749"> </script>
+{{--    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=18e64e89-bb90-4675-b7d7-52fcc71f0749"> </script>--}}
 
     <style>
     </style>
