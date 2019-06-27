@@ -109,6 +109,10 @@
             <!-- Footer -->
             <div class="footer-bottomarea">
                 <div class="container">
+                    <div class="text-center">
+                        <a href="https://www.guidestar.org/profile/83-2226512" target="_blank"><img height="60px" src="https://widgets.guidestar.org/gximage2?o=9797187&l=v4" /></a>
+
+                    </div>
                     <p class="footer-copyright">© <?php echo date("Y"); ?>.  Eli Health System | All Rights Reserved<a href="https://www.hsnow.org"> hsnow.org</a></p>
                 </div>
             </div>
