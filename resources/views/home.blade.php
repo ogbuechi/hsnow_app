@@ -144,9 +144,12 @@
                 <img src="assets/images/funfact/funfact-shape.png" alt="funfact area shape">
             </div>
             <div class="container">
+
                 <div class="row mt-30-reverse">
 
                     <!-- Funfact Single -->
+
+
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12 mt-30">
                         <div class="tm-funfact">
                                 <span class="tm-funfact-icon">
@@ -210,17 +213,25 @@
                 </div>
                 <div class="row services-wrap">
 
-                @foreach ($facilities as $item)
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 wow fadeInUp">
-                        <div class="tm-service text-center">
+                    <div class="col-md-10">
+                        <div class="row">
+                            @foreach ($facilities as $item)
+                                <div class="col-lg-4 col-md-6 col-sm-6 col-12 wow fadeInUp">
+                                    <div class="tm-service text-center">
                                 <span class="tm-service-icon">
                                     <i class="{{ $item->icon }}"></i>
                                 </span>
-                            <h5><a href="/{{ $item->link }}">{{ $item->name }}</a></h5>
+                                        <h5><a href="/{{ $item->link }}">{{ $item->name }}</a></h5>
 
+                                    </div>
+                                </div>
+                            @endforeach
                         </div>
+
                     </div>
-                   @endforeach
+                    <div class="col-md-2">
+                        <script type = "text/javascript">_dafdirect_settings="832226512_1111_8f56d68c-9f46-493a-aaca-ff1524b462ea"</script><script type = "text/javascript" src = "https://www.dafdirect.org/ddirect/dafdirect4.js"></script>
+                    </div>
 
                 </div>
             </div>

@@ -24,6 +24,9 @@
 {{--    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=18e64e89-bb90-4675-b7d7-52fcc71f0749"> </script>--}}
 
     <style>
+        #dafdirectdiv{
+            width: 160px !important;
+        }
     </style>
     <!-- End of hsnow Zendesk Widget script -->
 
@@ -100,7 +103,7 @@
 
 
         <!-- Footer Area -->
-        <footer class="footer" data-bgimage="{{ asset('assets/images/bg/bg-image-1.jpg') }}" data-black-overlay="9">
+    <footer class="footer" data-bgimage="{{ asset('assets/images/bg/bg-image-1.jpg') }}" data-black-overlay="9">
 
             <!-- Footer Widgets -->
 
