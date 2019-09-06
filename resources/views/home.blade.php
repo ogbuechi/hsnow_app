@@ -213,7 +213,7 @@
                 </div>
                 <div class="row services-wrap">
 
-                    <div class="col-md-10">
+                    <div class="col-md-12">
                         <div class="row">
                             @foreach ($facilities as $item)
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-12 wow fadeInUp">
@@ -229,10 +229,6 @@
                         </div>
 
                     </div>
-                    <div class="col-md-2">
-                        <script type = "text/javascript">_dafdirect_settings="832226512_1111_8f56d68c-9f46-493a-aaca-ff1524b462ea"</script><script type = "text/javascript" src = "https://www.dafdirect.org/ddirect/dafdirect4.js"></script>
-                    </div>
-
                 </div>
             </div>
         </div>
