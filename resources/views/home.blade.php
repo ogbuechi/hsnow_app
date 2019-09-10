@@ -247,7 +247,7 @@
                                     <img src="assets/images/admins/eli.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Elisha is the founder, President & CEO of Eli Health System. Elisha has several years of experience
+                                    <p>Elisha is the founder & CEO of Eli Health System. Elisha has several years of experience
                                         in health system strengthening, international and global health, program management, and primary health care.
                                     </p>
                                     <i class="fas fa-quote-left"></i>
@@ -255,7 +255,28 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Elisha Caldwell (Eli), MPH</h5>
-                                <p>President & CEO, United States
+                                <p>Founder & CEO, United States
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="tm-testimonial">
+                            <div class="tm-testimonial-top">
+                                <div class="tm-testimonial-author">
+                                    <img style="height: 150px" src="assets/images/president.jpg" alt="author image">
+                                </div>
+                                <div class="tm-testimonial-content">
+                                    <p>Darrell Manning is the President board of directors, Eli Health System.
+
+                                    </p>
+                                    <i class="fas fa-quote-left"></i>
+                                </div>
+                            </div>
+                            <div class="tm-testimonial-bottom">
+                                <h5>Darrell Manning</h5>
+                                <p>President board of directors
 
                                 </p>
                             </div>
