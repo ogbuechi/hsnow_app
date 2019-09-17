@@ -27,6 +27,18 @@
         #dafdirectdiv{
             width: 160px !important;
         }
+        .tm-navigation ul li a {
+            display: inline-block;
+            font-size: 14px;
+            font-family: "Roboto", sans-serif;
+            font-weight: 100;
+            padding: 10px 15px;
+        }
+        .funds {
+            width: 80px;
+            border-radius: 15px;
+            background-color: #F44336;
+        }
     </style>
     <!-- End of hsnow Zendesk Widget script -->
 
