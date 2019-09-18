@@ -268,16 +268,13 @@
                                     <img style="height: 150px" src="assets/images/president.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Darrell Manning is the President board of directors, Eli Health System.
-
-                                    </p>
+                                    <p>Darrell Manning is the President Board of Directors </p>                                    </p>
                                     <i class="fas fa-quote-left"></i>
                                 </div>
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Darrell Manning</h5>
-                                <p>President board of directors
-
+                                <p>President,  Board of Directors
                                 </p>
                             </div>
                         </div>
@@ -292,7 +289,7 @@
                                     <img src="assets/images/admins/francis.jpg" alt="francis">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Francis serves as the Vice President of EHS. Francis has several years of leadership experience.
+                                    <p>Francis serves as the Country Director EHS. Francis has several years of leadership experience.
                                         He has worked in several capacities in community health, primary healthcare, healthcare delivery system, nursing,
                                         government policy, program management, procurement and logistics, and budget forecast. </p>
                                     <i class="fas fa-quote-left"></i>
@@ -300,7 +297,7 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Francis V. Zayzay, BSN/MPH </h5>
-                                <p>Vice President, Liberia</p>
+                                <p>Country Director EHS, Liberia</p>
                             </div>
                         </div>
                     </div>
