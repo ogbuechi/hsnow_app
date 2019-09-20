@@ -35,10 +35,11 @@
             </div>
         </div>
 
-        @if(in_array($page->slug,['about-us','health','vital','team']))
+        @if(in_array($page->slug,['about-us','vital','team']))
             @if(in_array($page->slug,['about-us','vital']))
         @include('partials.facts')
             @endif
+
         <div class="tm-section team-member-area tm-padding-section">
             <div class="container">
                 <div class="row justify-content-center">

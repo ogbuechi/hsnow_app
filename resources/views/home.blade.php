@@ -119,7 +119,7 @@
                                             <i class="fas fa-dollar-sign"></i>
                                         </span>
                                     <h5>Health Insurance</h5>
-                                    <p>We provide health care insurance on all our facilities.</p>
+                                    <p>We teach communities ways to seek cares that are affordable and patient-driven.</p>
                                 </div>
                                 <!--// Single Feature -->
                             </div>
@@ -244,7 +244,7 @@
                         <div class="tm-testimonial">
                             <div class="tm-testimonial-top">
                                 <div class="tm-testimonial-author">
-                                    <img src="assets/images/admins/eli.jpg" alt="author image">
+                                    <img style="width: 100px; height: 150px" src="assets/images/1.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
                                     <p>Elisha is the founder & CEO of Eli Health System. Elisha has several years of experience
