@@ -119,7 +119,10 @@
                                             <i class="fas fa-dollar-sign"></i>
                                         </span>
                                     <h5>Health Insurance</h5>
-                                    <p>We teach communities ways to seek cares that are affordable and patient-driven.</p>
+                                    <p>
+                                        We share our beliefs and values with underprivileged
+                                        communities about how to achieve high-quality health care outcomes
+                                    </p>
                                 </div>
                                 <!--// Single Feature -->
                             </div>
