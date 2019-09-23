@@ -141,62 +141,80 @@
         <!--// Features Area -->
 
         <!-- Funfact Area -->
-        <div class="tm-section funfact-area tm-padding-section" data-bgimage="assets/images/funfact/funfact-bg.jpg"
-             data-black-overlay="8">
-            <div class="funfact-areashape">
-                <img src="assets/images/funfact/funfact-shape.png" alt="funfact area shape">
-            </div>
+        <div class="tm-section services-area tm-padding-section bg-white">
             <div class="container">
-
-                <div class="row mt-30-reverse">
-
-                    <!-- Funfact Single -->
-
-
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 mt-30">
-                        <div class="tm-funfact">
-                                <span class="tm-funfact-icon">
-                                    <i class="fas fa-plus"></i>
-                                </span>
-                            <div class="tm-funfact-content">
-                                <span class="odometer" data-count-to="4"></span>
-                                <h5>Four Projects Underway</h5>
-                            </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 col-md-10 col-12">
+                        <div class="tm-section-title text-center">
+                            <h2>Yes We Care!!!</h2>
+                            <p>Eli Health System hears the voices of these mothers and their children </p>
                         </div>
                     </div>
-                    <!--// Funfact Single -->
+                </div>
+                <div class="row services-wrap">
 
-                    <!-- Funfact Single -->
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 mt-30">
-                        <div class="tm-funfact">
-                                <span class="tm-funfact-icon">
-                                    <i class="fas fa-hospital"></i>
-                                </span>
-                            <div class="tm-funfact-content">
-                                <span class="odometer" data-count-to="1"></span>
-                                <h5>Health Center</h5>
-                            </div>
+                    <!-- Single Service -->
+
+                    <!--// Single Service -->
+
+                    <!-- Single Service -->
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 wow fadeInUp">
+                        <div class="tm-service text-center">
+                            <img src="assets/images/campaign/keb.jpg">
+                            <caption>Kebeh Horrice</caption>
+                            <p>
+                                Kebeh is a student and six months pregnant.
+                                She has only received a medical checkup once so far in her pregnancy and she is now in her second trimester.
+                                <br>  <a class="btn btn-primary" href="/campaign">Read More</a>
+                            </p>
+
                         </div>
                     </div>
-                    <!--// Funfact Single -->
+                    <!--// Single Service -->
 
-                    <!-- Funfact Single -->
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 mt-30">
-                        <div class="tm-funfact">
-                                <span class="tm-funfact-icon">
-                                    <i class="fas fa-envelope"></i>
-                                </span>
-                            <div class="tm-funfact-content">
-                                <span class="odometer" data-count-to="200"></span>
-                                <h5>Mail Conversation</h5>
-                            </div>
+                    <!-- Single Service -->
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 wow fadeInUp">
+                        <div class="tm-service text-center">
+                            <img src="assets/images/campaign/kess.jpg">
+                            <caption>Ma Kesselly</caption>
+                            <p>
+                                The reality is that a young woman named
+                                Ma had many difficulties throughout her pregnancy. But, she was one of the lucky ones.
+                                <br> <a class="btn btn-primary" href="/campaign">Read More</a>
+                            </p>
+
                         </div>
                     </div>
-                    <!--// Funfact Single -->
+                    <!--// Single Service -->
 
-                    <!-- Funfact Single -->
+                    <!-- Single Service -->
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 wow fadeInUp">
+                        <div class="tm-service text-center">
+                            <img src="assets/images/campaign/tarn.jpg">
+                            <caption>Tarnue Johnson</caption>
+                            <p>
+                                We are very proud of Tarnue Johnson. Tarnue desperately wants to become a medical doctor.
+                                <br>  <a class="btn btn-primary" href="/campaign">Read More</a>
+                            </p>
 
-                    <!--// Funfact Single -->
+                        </div>
+                    </div>
+                    <!--// Single Service -->
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12 wow fadeInUp">
+                        <div class="tm-service text-center">
+                            <img src="assets/images/campaign/abi.jpg">
+                            <caption>Abigail Zaza</caption>
+                            <p class="pt-3">
+                                Abigail is a young mother that became pregnant while she was in school.
+                                Throughout her pregnancy Abigail did not have access to the prenatal care services she needed.
+                                <br> <a class="btn btn-primary" href="/campaign">Read More</a>
+                            </p>
+
+                        </div>
+                    </div>
+
+
+
 
                 </div>
             </div>
