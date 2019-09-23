@@ -146,7 +146,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-10 col-12">
                         <div class="tm-section-title text-center">
-                            <h2>Yes We Care!!!</h2>
+                            <h2>Yes We Care</h2>
                             <p>Eli Health System hears the voices of these mothers and their children </p>
                         </div>
                     </div>
