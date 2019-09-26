@@ -292,7 +292,7 @@
                                     <img src="assets/images/admins/francis.jpg" alt="francis">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Francis serves as the Country Director EHS, Liberia. Francis has several years of leadership experience.
+                                    <p>Francis serves as the Country Director, EHS Liberia. Francis has several years of leadership experience.
                                         He has worked in several capacities in community health, primary healthcare, healthcare delivery system, nursing,
                                         government policy, program management, procurement and logistics, and budget forecast. </p>
                                     <i class="fas fa-quote-left"></i>
