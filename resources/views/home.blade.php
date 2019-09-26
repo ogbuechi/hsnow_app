@@ -268,7 +268,7 @@
                                     <img src="assets/images/admins/ell.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Elisha is the founder, President & CEO of Eli Health System. Elisha has several years of experience
+                                    <p>Elisha is the Founder & CEO of Eli Health System. Elisha has several years of experience
                                         in health system strengthening, international and global health, program management, and primary health care.
                                     </p>
                                     <i class="fas fa-quote-left"></i>
@@ -276,7 +276,7 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Elisha Caldwell (Eli), MPH</h5>
-                                <p>President & CEO, United States
+                                <p>Founder & CEO, United States
 
                                 </p>
                             </div>
