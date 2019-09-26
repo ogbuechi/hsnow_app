@@ -265,10 +265,10 @@
                         <div class="tm-testimonial">
                             <div class="tm-testimonial-top">
                                 <div class="tm-testimonial-author">
-                                    <img style="width: 100px; height: 150px" src="assets/images/1.jpg" alt="author image">
+                                    <img src="assets/images/admins/ell.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Elisha is the founder & CEO of Eli Health System. Elisha has several years of experience
+                                    <p>Elisha is the founder, President & CEO of Eli Health System. Elisha has several years of experience
                                         in health system strengthening, international and global health, program management, and primary health care.
                                     </p>
                                     <i class="fas fa-quote-left"></i>
@@ -276,26 +276,8 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Elisha Caldwell (Eli), MPH</h5>
-                                <p>Founder & CEO, United States
+                                <p>President & CEO, United States
 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="tm-testimonial">
-                            <div class="tm-testimonial-top">
-                                <div class="tm-testimonial-author">
-                                    <img style="height: 150px" src="assets/images/president.jpg" alt="author image">
-                                </div>
-                                <div class="tm-testimonial-content">
-                                    <p>Darrell Manning is the President Board of Directors </p>                                    </p>
-                                    <i class="fas fa-quote-left"></i>
-                                </div>
-                            </div>
-                            <div class="tm-testimonial-bottom">
-                                <h5>Darrell Manning</h5>
-                                <p>President,  Board of Directors
                                 </p>
                             </div>
                         </div>
@@ -310,7 +292,7 @@
                                     <img src="assets/images/admins/francis.jpg" alt="francis">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Francis serves as the Country Director EHS. Francis has several years of leadership experience.
+                                    <p>Francis serves as the Vice President of EHS. Francis has several years of leadership experience.
                                         He has worked in several capacities in community health, primary healthcare, healthcare delivery system, nursing,
                                         government policy, program management, procurement and logistics, and budget forecast. </p>
                                     <i class="fas fa-quote-left"></i>
@@ -318,7 +300,7 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Francis V. Zayzay, BSN/MPH </h5>
-                                <p>Country Director EHS, Liberia</p>
+                                <p>Vice President, Liberia</p>
                             </div>
                         </div>
                     </div>
@@ -377,7 +359,7 @@
                                     <img src="assets/images/admins/mutinta.png" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Mutinta is the co-founder and Secretary to the Board of Directors of Eli Health System.
+                                    <p>Mutinta serves as the Health System Administrator and Secretary to the Board of Directors of Eli Health System.
                                         Mutinta has over ten years of experience in business administration and financial management. Currently,
                                         she’s the Clinical Department Administrator with the Infectious Diseases at the University of Virginia School of Medicine. </p>
                                     <i class="fas fa-quote-left"></i>
@@ -385,7 +367,7 @@
                             </div>
                             <div class="tm-testimonial-bottom">
                                 <h5>Mutinta Bulanda, MHA </h5>
-                                <p>Co-founder</p><p>
+                                <p>Health System Administrator</p><p>
                                     Secretary & Treasurer to the Board of Directors, United States
                                 </p>
                             </div>
@@ -410,6 +392,47 @@
                             <div class="tm-testimonial-bottom">
                                 <h5>Honorable Beyan D. Howard</h5>
                                 <p>Senior Advisor to the Board of Directors, Liberia</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--// Testimonial -->
+
+                    <!-- Testimonial -->
+                    <div class="col-lg-6">
+                        <div class="tm-testimonial">
+                            <div class="tm-testimonial-top">
+                                <div class="tm-testimonial-author">
+                                    <img src="assets/images/admins/mm.jpg" alt="author image">
+                                </div>
+                                <div class="tm-testimonial-content">
+                                    <p> Muhammad Akram has over 10 years’ experience in Program, Research, Monitoring, and Evaluation of projects. He has published 7 research papers,
+                                        5 development reports, and reviewed research papers for Durham University, UK.</p>
+                                    <i class="fas fa-quote-left"></i>
+                                </div>
+                            </div>
+                            <div class="tm-testimonial-bottom">
+                                <h5>Muhammad Akram, M.A, M.Sc</h5>
+                                <p>Project Manager, Eli Health System</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--// Testimonial -->
+
+                    <!-- Testimonial -->
+                    <div class="col-lg-6">
+                        <div class="tm-testimonial">
+                            <div class="tm-testimonial-top">
+                                <div class="tm-testimonial-author">
+                                    <img src="assets/images/admins/Steve.jpg" alt="author image">
+                                </div>
+                                <div class="tm-testimonial-content">
+                                    <p>Steve has over 25 years of experience and successful grant writer with a track record of obtaining funding </p>
+                                    <i class="fas fa-quote-left"></i>
+                                </div>
+                            </div>
+                            <div class="tm-testimonial-bottom">
+                                <h5>Steve Every, M.Ed</h5>
+                                <p>Grants Specialist</p>
                             </div>
                         </div>
                     </div>
