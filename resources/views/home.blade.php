@@ -426,7 +426,8 @@
                                     <img src="assets/images/admins/Steve.jpg" alt="author image">
                                 </div>
                                 <div class="tm-testimonial-content">
-                                    <p>Steve has over 25 years of experience and successful grant writer with a track record of obtaining funding </p>
+                                    <p>Steve is a non-profit development professional with over 30 years of experience helping non- profit agencies obtain funds from donor agencies, government and individuals. Steve earned a Bachelor’s
+                                        Degree from the University of Michigan Dearborn and a Master’s of Education Degree from Wayne State University. </p>
                                     <i class="fas fa-quote-left"></i>
                                 </div>
                             </div>
@@ -436,6 +437,30 @@
                             </div>
                         </div>
                     </div>
+                    <!--// Testimonial -->
+
+                    <!-- Testimonial -->
+                    <div class="col-lg-6">
+                        <div class="tm-testimonial">
+                            <div class="tm-testimonial-top">
+                                <div class="tm-testimonial-author">
+                                    <img src="assets/images/admins/kokolee.jpg" alt="author image">
+                                </div>
+                                <div class="tm-testimonial-content">
+                                    <p>Dr. Kokolee is a general practitioner with a vision to see a globalized human community living in good health, peace, dignity, harmony, equity, social and economic justice.  </p>
+                                    <i class="fas fa-quote-left"></i>
+                                </div>
+                            </div>
+
+
+                            <div class="tm-testimonial-bottom">
+                                <h5>Gbonah Kokolee, MD</h5>
+                                <p>Medical Director, Liberia</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--// Testimonial -->
+
                     <!--// Testimonial -->
 
                 </div>
