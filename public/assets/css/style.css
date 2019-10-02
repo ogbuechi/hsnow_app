@@ -3170,9 +3170,10 @@ button.tm-videobutton:hover span {
     }
 
 .heroslider-content p {
-    font-size: 18px;
+    font-size:30px;
     line-height: 30px;
-    color: #000000;
+    color: #fff;
+    font-weight:600;
     margin-top: 30px;
     }
 
