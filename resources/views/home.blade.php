@@ -114,16 +114,16 @@
                                 <!--// Single Feature -->
 
                                 <!-- Single Feature -->
-                                <div class="tm-feature text-center">
-                                        <span class="tm-feature-icon">
-                                            <i class="fas fa-dollar-sign"></i>
-                                        </span>
-                                    <h5>Health Insurance</h5>
-                                    <p>
-                                        We share our beliefs and values with underprivileged
-                                        communities about how to achieve high-quality health care outcomes
-                                    </p>
-                                </div>
+{{--                                <div class="tm-feature text-center">--}}
+{{--                                        <span class="tm-feature-icon">--}}
+{{--                                            <i class="fas fa-dollar-sign"></i>--}}
+{{--                                        </span>--}}
+{{--                                    <h5>Health Insurance</h5>--}}
+{{--                                    <p>--}}
+{{--                                        We share our beliefs and values with underprivileged--}}
+{{--                                        communities about how to achieve high-quality health care outcomes--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
                                 <!--// Single Feature -->
                             </div>
 
