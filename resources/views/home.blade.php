@@ -55,7 +55,7 @@
         <div class="tm-section features-area bg-grey tm-padding-section">
             <div class="container">
                 <div class="row justify-content-end">
-                    <div class="col-xl-9 col-lg-12">
+                    <div class="col-xl-12 col-lg-12">
                         <div class="features-slider-active tm-slider-dots tm-slider-dots-vertical">
 
                             <div class="features-slider-row">
@@ -133,10 +133,7 @@
                     </div>
                 </div>
             </div>
-            <div class=" col-lg-9 col-md-12 feature-image">
-                <img class="wow fadeInLeft" src="assets/images/others/henry.jpg" alt="feature image">
-                <h5>Otunuya Henry Chukwudi, Database Specialist | Nigeria.</h5>
-            </div>
+
         </div>
         <!--// Features Area -->
 
@@ -277,6 +274,27 @@
                             <div class="tm-testimonial-bottom">
                                 <h5>Elisha Caldwell (Eli), MPH</h5>
                                 <p>Founder & CEO, United States
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="tm-testimonial">
+                            <div class="tm-testimonial-top">
+                                <div class="tm-testimonial-author">
+                                    <img src="assets/images/others/henry.jpg" alt="author image">
+                                </div>
+                                <div class="tm-testimonial-content">
+                                    <p>Otunuya Henry Chukwudi is a Software Engineer with proven experience in Desktop Application and Website Development using Java,
+                                        PHP and SQL. He has developed critical solutions for businesses and organizations.
+                                        His passion is in scalable Application Development.</p>
+                                    <i class="fas fa-quote-left"></i>
+                                </div>
+                            </div>
+                            <div class="tm-testimonial-bottom">
+                                <h5>Otunuya Henry Chukwudi</h5>
+                                <p>Database Specialist | Nigeria
 
                                 </p>
                             </div>
